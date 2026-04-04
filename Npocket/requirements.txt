@@ -1,0 +1,4 @@
+# Npocket n'utilise que des bibliothèques standard de Python 3.
+# Aucun module externe n'est requis pour le fonctionnement de base.
+# Si vous souhaitez ajouter Scapy plus tard pour des scans plus avancés :
+# scapy==2.5.0
