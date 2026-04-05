@@ -112,10 +112,10 @@ def parse_args():
     # Output
     parser.add_argument('-v', '--verbose', action='store_true')
     parser.add_argument('--no-progress', action='store_true')
-    parser.add_argument('-oJ', '--output_json')
-    parser.add_argument('-oC', '--output_csv')
-    parser.add_argument('-oM', '--output_md')
-    parser.add_argument('-oH', '--output_html')
+    parser.add_argument('-oJ', '--output-json')
+    parser.add_argument('-oC', '--output-csv')
+    parser.add_argument('-oM', '--output-md')
+    parser.add_argument('-oH', '--output-html')
     
     # General
     parser.add_argument('-h', '--help', action='store_true')
